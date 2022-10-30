@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c854dd52-c2a6-49d8-addd-73c493d44346" name="Default Changelist" comment="" />
+    <list default="true" id="c854dd52-c2a6-49d8-addd-73c493d44346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blanfo-custom-fields.php" beforeDir="false" afterPath="$PROJECT_DIR$/blanfo-custom-fields.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +16,18 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2GfNFrtEpnpYFbBbbLTzOUnWySr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../php/php.ini" />
   </component>
@@ -33,7 +49,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666775579051</updated>
-      <workItem from="1666775585154" duration="230000" />
+      <workItem from="1666775585154" duration="937000" />
+      <workItem from="1666802750972" duration="60000" />
+      <workItem from="1666872013563" duration="1829000" />
+      <workItem from="1666932119270" duration="9861000" />
+      <workItem from="1667016486372" duration="14190000" />
+      <workItem from="1667057759440" duration="19000" />
+      <workItem from="1667109853515" duration="11489000" />
     </task>
     <servers />
   </component>
@@ -41,13 +63,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="417" y="183" key="NewPhpClassDialog" timestamp="1666876922486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="417" y="183" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1666876922486" />
     <state x="517" y="292" key="NewPhpFileDialog" timestamp="1666775702336">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1666775702336" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1666775692671">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1667057765650">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1666775692671" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1667057765650" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1667119647904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1667119647904" />
   </component>
 </project>
