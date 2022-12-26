@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Blanfo Custom Fields
  * Plugin URI:        https://blanfo.ir
- * Description:       Custom Fields on Woocommerce
+ * Description:       Custom Fields on Woocommerce (Convert Quantity to Length - Meter and centimeter)
  * Version:           1.0.2
  * Requires at least: 5.2
  * Requires PHP:      7.2
